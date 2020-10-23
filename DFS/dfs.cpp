@@ -21,7 +21,7 @@ int dfs(int x , int y , int **matrix , int sizeOfMatrix,vector<vector<int> > &vi
 }
 
 void solution(int sizeOfMatrix, int **matrix) {
-  // TODO: 이곳에 코드를 작성하세요.
+
 	vector<vector<int> > visited(sizeOfMatrix , vector<int>(sizeOfMatrix,0));
 	int count=0;
 	vector<int> ter;
