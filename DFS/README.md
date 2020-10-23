@@ -30,5 +30,5 @@ input:
 
 output:
 
-3 
+3  
 4 5 7
