@@ -9,6 +9,7 @@
 1. Shortest Path and MinimumSpanningTree for unweighted graph
 
 2. Path Finding
-
+->0324
+    pathfinding은 다익스트라 처럼 배열에 경로를 저장한다.
 
 주의점: 최단경로를 찾을떄 DFS를 쓰지말고 BFS를 사용한다.
