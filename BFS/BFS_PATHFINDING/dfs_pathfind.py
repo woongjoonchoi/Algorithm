@@ -10,7 +10,7 @@ def bfs(matr,n,start,parent):
     dist = [[float('inf') for _ in range(n)] for _ in range(n)]
     q = []
     q.append(start)
-    # d = [[1,0,0,-1] ,[0,1,-1,0]]
+
     d = [ [1,0] ,[0,1] , [0,-1] , [-1,0]]
     parent[start[0]][start[1]].append(-1)
     dist[start[0]][start[1]] = 0
@@ -18,10 +18,7 @@ def bfs(matr,n,start,parent):
         u  = q[0]
         q.pop(0)
         for l in d :
-            # print(u[0] + l[0])
-            # print(u[1] + l[1] )
-            # c= matr[u[0] + l[0]][u[1] + l[1] ] 
-            # print(matr[u[0] + l[0]][u[1] + l[1] ] )
+
             if point_valid(u[0] + l[0] , u[1] + l[1] , n) and matr[u[0] + l[0]][u[1] + l[1] ] == '1':
                 if dist[u[0]+ l[0]][u[1] + l[1]] > dist[u[0]][u[1]] + 1 :
                     dist[u[0]+ l[0]][u[1] + l[1]] = dist[u[0]][u[1]] + 1 
