@@ -20,3 +20,6 @@ KRUSKAL 스코페에서함
 
 0426
 엽습을 잘하자.
+
+0427
+evry point to shortpath
