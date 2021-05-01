@@ -23,3 +23,7 @@ KRUSKAL 스코페에서함
 
 0427
 evry point to shortpath
+
+
+0428
+기술면접-좋은코드, RestFulaPi
