@@ -32,3 +32,13 @@ evry point to shortpath
 0511
 
 BackTracking
+
+0512
+
+for문 안에서 변수활용증가
+
+
+
+좌표화 할수 있으면 방정식 을 세워본다.
+
+결론:수열화
