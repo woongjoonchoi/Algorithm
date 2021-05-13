@@ -45,3 +45,6 @@ for문 안에서 변수활용증가
 
 0513
 array 테크닉(원소교환,원소무빙)
+
+array- Update - for문 정순, 역순
+    - traversal
