@@ -46,5 +46,7 @@ for문 안에서 변수활용증가
 0513
 array 테크닉(원소교환,원소무빙)
 
-array- Update - for문 정순, 역순
+array- Update - for문 정순(정방향 iter), 역순(역방향 iter)
+                : ex)rotate 할때 역방향,정방향 나누지 않고 한번에 rotate하면
+                    변수에 계속 저장을 해줘야한다
     - traversal
