@@ -52,7 +52,8 @@ array- Update - for문 정순(정방향 iter), 역순(역방향 iter)
     - traversal
 
 
-for vs while:
-    반복 변수(변하는수) for은 자동이지만
-
-    while은 수동으로
+0517
+반복을 줄일때(Greedy,최적화)
+(0~n, 1~n,...n~n)
+정방향(0~n) ,역방향(n~0)
+아니면 동시(0~n, n~0)
