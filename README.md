@@ -66,3 +66,9 @@ array- Update - for문 정순(정방향 iter), 역순(역방향 iter)
 순서에 의해
 Objective Function
 SafeMove(결정읇 번복한다는건 , 이전 결정상태로 돌아간다는뜻, 상태를 더 세분화하자.)
+
+06605
+중첩 for문을 단일for문으로
+1.Greeyd
+2.Sliding Windows
+3.two pointer
